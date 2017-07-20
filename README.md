@@ -11,6 +11,6 @@ SJTU ACM team 2017-2018 毒代码精选。
 
 如：
 
-	07.19-A-llx
+	07.19Training-A-llx
 	 |---ac.cpp
 	 |---wa.cpp
